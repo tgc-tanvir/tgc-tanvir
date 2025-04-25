@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tanvir Rahman</h1>
 <h3 align="center">Web Developer</h3>
 
+
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5603AQEtDFjXWDi46Q/profile-displayphoto-shrink_800_800/B56ZQIaeA8GsAc-/0/1735307945453?e=1750896000&v=beta&t=-mFTvfDo5dRv-lt34oUNtwb91nwCBZC0vkTeOfFjI-o" alt="tgc-tanvir" /> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tgc-tanvir&label=Profile%20views&color=0e75b6&style=flat" alt="tgc-tanvir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tgc-tanvir" alt="tgc-tanvir" /></a> </p>
