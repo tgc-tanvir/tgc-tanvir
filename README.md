@@ -1,5 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D5603AQEtDFjXWDi46Q/profile-displayphoto-shrink_400_400/B56ZQIaeA8GsAg-/0/1735307945412?e=1750896000&v=beta&t=8k0_cRD3Dg4AU-m-rAN5cfr0Xa5SX1s0Lcv7A8OhYQY)
-
+![Web Developer](https://media.licdn.com/dms/image/v2/D5603AQEtDFjXWDi46Q/profile-displayphoto-shrink_800_800/B56ZQIaeA8GsAc-/0/1735307945453?e=1750896000&v=beta&t=-mFTvfDo5dRv-lt34oUNtwb91nwCBZC0vkTeOfFjI-o)
 
 <h1 align="center">Hi 👋, I'm Tanvir Rahman</h1>
 <h3 align="center">Web Developer</h3>
